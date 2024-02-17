@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "65c68c18f226030216ba3032"
+  },
+  "originalurl": "https://www.example.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c6975ee68fe48bb9c16abb"
+  },
+  "originalurl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c6976ee68fe48bb9c16abe"
+  },
+  "originalurl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69834e68fe48bb9c16ac1"
+  },
+  "originalurl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69873e68fe48bb9c16ac6"
+  },
+  "originalurl": "https://rapidapi.com/BigLobster/api/url-shortener-service/",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c698c1508da38d820759f5"
+  },
+  "originalurl": "https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69b12ed5f95d88707c6ce"
+  },
+  "originalurl": "https://www.mongodb.com/docs/atlas/sample-data/",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69bb9da0b70695322f95f"
+  },
+  "originalurl": "https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/",
+  "shortenedurl": "your-shortened-url",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69c994d4ed2010fc0183e"
+  },
+  "originalurl": "https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/",
+  "shortenedurl": "https://goolnk.com/NpGN6m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69c9a4d4ed2010fc01840"
+  },
+  "originalurl": "https://www.mongodb.com/docs/drivers/node/current/quick-start/connect-to-mongodb/",
+  "shortenedurl": "https://goolnk.com/NpGN6m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69ca44d4ed2010fc01842"
+  },
+  "originalurl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+  "shortenedurl": "https://goolnk.com/rP5VDg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c69caf4d4ed2010fc01844"
+  },
+  "originalurl": "https://rapidapi.com/BigLobster/api/url-shortener-service/",
+  "shortenedurl": "https://goolnk.com/VXYwOr",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca52d0f797916247dc5794"
+  },
+  "originalurl": "https://getbootstrap.com/docs/5.3/components/navbar/",
+  "shortenedurl": "https://goolnk.com/bN7bLn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ca52eaf797916247dc5796"
+  },
+  "originalurl": "https://www.youtube.com/watch?v=nkNbLHDTgWA",
+  "shortenedurl": "https://goolnk.com/LEelD0",
+  "__v": 0
+}]
